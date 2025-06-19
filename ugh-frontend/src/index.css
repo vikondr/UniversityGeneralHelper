@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.glow-on-hover:hover {
+  box-shadow: 0 0 8px 4px #0284c7, 0 0 16px 4px #2563eb;
+  transition: box-shadow 0.2s;
+}
